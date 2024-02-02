@@ -9,7 +9,7 @@ const path = require('path')
 const { ExpressPeerServer } = require('peer')
 
 dotenv.config({
-  path: './config/.env'
+  path: '../.env'
 })
 
 const app = express()
