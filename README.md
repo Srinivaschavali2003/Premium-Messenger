@@ -10,7 +10,7 @@
   <p align="center">
     An awesome chat application based on website
     <br />
-    <a href="https://github.com/stanleyclaudius/chat-app.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Srinivaschavali2003/Premium-Messenger.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Srinivaschavali2003/Premium-Messenger/issues">Report Bug</a>
