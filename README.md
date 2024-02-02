@@ -124,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right"><a href="#top">back to top</a></p>
 
 
-Project Link: [https://github.com/stanleyclaudius/chat-app](https://github.com/stanleyclaudius/chat-app)
+Project Link: [https://github.com/Srinivaschavali2003/Premium-Messenger](https://github.com/Srinivaschavali2003/Premium-Messenger/)
 
 <p align="right"><a href="#top">back to top</a></p>
 
